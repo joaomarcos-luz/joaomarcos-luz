@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/joaomarcos-luz/joaomarcos-luz/blob/main/Imagem%20do%20WhatsApp%20de%202024-08-17%20%C3%A0(s)%2000.01.42_2803c9bc.jpg" />
 &nbsp;&nbsp;&nbsp;
 
 
