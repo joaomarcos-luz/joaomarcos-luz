@@ -43,19 +43,16 @@
 
 ## Contacts:
 
-<div>
-    <a href="https://instagram.com/jm_luz?igsh=YjN2bzlueGFpeTg=" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<div style="display: flex; gap: 10px;">
+    <a href="https://instagram.com/jm_luz?igsh=YjN2bzlueGFpeTg=" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="mailto:contato.joaomarcossoaresluz9@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <a href="mailto:contato.joaomarcossoaresluz9@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-soares-luz-047a5b29b/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-soares-luz-047a5b29b/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 </div>
- 
-
-  
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=footer"/>
