@@ -5,10 +5,10 @@
 
 <p align="center">I ❤️ am João Marcos Soares Luz, a front-end developer with expertise in HTML, CSS, JavaScript, TypeScript, Bootstrap, Angular, Git, and GitHub. I am passionate about creating innovative and functional web interfaces, always focused on delivering smooth and intuitive user experiences. I am looking for new challenges to apply and expand my knowledge, contributing to the success of projects and teams.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
- </div>
+<div align="center" style="margin-bottom:100px">
+    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=joaomarcos-luz&theme=radical&mode=weekly" />
+    <img width="40%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=joaomarcos-luz&show_icons=true&theme=radical&layout=compact" />
+</div>
  
  &nbsp;
  &nbsp;
